@@ -60,7 +60,7 @@
   <kbd>
     <kbd>Tools</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" title="CLion" />
   </kbd>

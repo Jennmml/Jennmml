@@ -1,4 +1,4 @@
-<!-- GIF de portada -->
+![Hi!](cosito.gif)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jennmml/Jennmml/main/assets/hello.gif" alt="Hello GIF" width="480">
 </p>

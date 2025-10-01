@@ -3,18 +3,10 @@
   <img src="https://raw.githubusercontent.com/Jennmml/Jennmml/main/assets/hello.gif" alt="Hello GIF" width="480">
 </p>
 
-<!-- Card About Me -->
-<div align="center">
-  <div style="display:inline-block; text-align:left; padding:18px 22px; border:1px solid #2f3542; border-radius:12px; background:#0d1117;">
-    <h3 style="margin:0 0 10px 0;">About Me! ✨</h3>
-    <ul style="margin:0; padding-left:18px;">
-      <li>👨🏽‍💻 I'm a <b>Computer Engineering student</b>.</li>
-      <li>🌱 Learning <b>data analysis with Python</b> — using <b>pandas</b> and <b>PySpark</b>.</li>
-      <li>🧭 Interested in <b>project management in tech</b> (planning, roadmapping, coordination, reporting),
-          <b>data science & analytics</b>, and modern <b>front-end</b>.</li>
-    </ul>
-  </div>
-</div>
+**About Me!**
+- 👨🏽‍💻 I'm a Computer Engineering student.
+- 🌱 I'm currently learning data analysis with Python, working with libraries like **pandas** and **PySpark**.
+- 🤔 I’m especially interested in **project administration/management in tech** (planning, roadmapping, coordination, and reporting), **data science & analytics**, and modern **front-end** development.
 
 <!-- Fila 1 -->
 <p align="center" style="text-align:center; margin:0 auto; max-width:100%;">

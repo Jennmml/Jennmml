@@ -4,9 +4,11 @@
 </p>
 
 **About Me!**
-- 👨🏽‍💻 I'm a Computer Engineering student.
-- 🌱 I'm currently learning data analysis with Python, working with libraries like **pandas** and **PySpark**.
-- 🤔 I’m especially interested in **project administration/management in tech** (planning, roadmapping, coordination, and reporting), **data science & analytics**, and modern **front-end** development.
+
+- 👋 Hey! I’m a Computer Engineering student who loves building and learning.
+- 🐍 Currently diving into **data analysis with Python**—hands-on with **pandas** and **PySpark**.
+- 🗺️ Big fan of **project management in tech** (planning, roadmapping, coordination, reporting),
+  **data science & analytics**, and modern **front-end**.
 
 <!-- Fila 1 -->
 <p align="center" style="text-align:center; margin:0 auto; max-width:100%;">

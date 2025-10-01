@@ -34,7 +34,6 @@
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" />
-    <!-- Tailwind desde Simple Icons -->
     <img width="30px" src="https://cdn.simpleicons.org/tailwindcss" title="Tailwind CSS" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" />
   </kbd>
@@ -51,8 +50,6 @@
 
   <kbd style="display:inline-block; margin:6px 8px; border-radius:8px; padding:10px 12px;">
     <kbd>Data Science</kbd>
-    <br><br>
-    <!-- Databricks / Snowflake vía Simple Icons -->
     <img width="30px" src="https://cdn.simpleicons.org/databricks" title="Databricks" />
     <img width="30px" src="https://cdn.simpleicons.org/snowflake" title="Snowflake" />
   </kbd>

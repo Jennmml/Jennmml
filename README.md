@@ -11,8 +11,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="Python" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" title="C++" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" />
-    <!-- SQL como lenguaje -->
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" title="SQL" />
+    <!-- SQL como lenguaje: uso Simple Icons (estable) -->
+    <img width="30px" src="https://cdn.simpleicons.org/postgresql" title="SQL" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" title="Java" />
   </kbd>
 
@@ -34,7 +34,8 @@
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" />
+    <!-- Tailwind desde Simple Icons -->
+    <img width="30px" src="https://cdn.simpleicons.org/tailwindcss" title="Tailwind CSS" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" />
   </kbd>
 
@@ -51,8 +52,9 @@
   <kbd>
     <kbd>Data Science</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" title="Databricks" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" title="Snowflake" />
+    <!-- Databricks / Snowflake vía Simple Icons -->
+    <img width="30px" src="https://cdn.simpleicons.org/databricks" title="Databricks" />
+    <img width="30px" src="https://cdn.simpleicons.org/snowflake" title="Snowflake" />
   </kbd>
 
   <kbd>

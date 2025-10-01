@@ -74,13 +74,23 @@
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
-<h2 align="center"><u>My Github Stats</u></h2>
+<h2 align="center"><u>My GitHub Stats</u></h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekyaygilFethi&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TekyaygilFethi&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TekyaygilFethi&theme=holi-theme">
+
+<!-- Lenguajes -->
+<img align="center" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&langs_count=10" />
+
+<br><br>
+
+<!-- Stats generales -->
+<img align="center" 
+     src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&count_private=true&show_icons=true&line_height=24&theme=github_dark" />
+
+<br><br>
+
+<!-- Racha de commits -->
+<img align="center" 
+     src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=holi-theme" />
+
 </p>

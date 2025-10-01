@@ -50,6 +50,7 @@
 
   <kbd style="display:inline-block; margin:6px 8px; border-radius:8px; padding:10px 12px;">
     <kbd>Data Science</kbd>
+    <br><br>
     <img width="30px" src="https://cdn.simpleicons.org/databricks" title="Databricks" />
     <img width="30px" src="https://cdn.simpleicons.org/snowflake" title="Snowflake" />
   </kbd>

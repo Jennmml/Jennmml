@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jennmml/Jennmml/main/assets/hello.gif" alt="Hello GIF" width="480">
 </p>
-
+**Hi!, I'm Jennifer**
 **About Me!**
 
 - 👋 Hey! I’m a Computer Engineering student who loves building and learning.

@@ -4,6 +4,7 @@
 - 🌱 I'm currently learning data analysis with Python, working with libraries like **pandas** and **PySpark**.
 - 🤔 I’m especially interested in **project administration/management in tech** (planning, roadmapping, coordination, and reporting), **data science & analytics**, and modern **front-end** development.
 
+<!-- Fila 1 -->
 <p align="center" style="text-align:center; margin:0 auto; max-width:100%;">
   <kbd style="display:inline-block; margin:6px 8px; border-radius:8px; padding:10px 12px;">
     <kbd>Programming Languages</kbd>
@@ -11,7 +12,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="Python" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" title="C++" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" />
-    <!-- SQL como lenguaje: uso Simple Icons (estable) -->
     <img width="30px" src="https://cdn.simpleicons.org/postgresql" title="SQL" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" title="Java" />
   </kbd>
@@ -45,9 +45,10 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-plain.svg" title="Supabase" />
   </kbd>
+</p>
 
-  <br><br>
-
+<!-- Fila 2 -->
+<p align="center" style="text-align:center; margin:12px auto 0; max-width:100%;">
   <kbd style="display:inline-block; margin:6px 8px; border-radius:8px; padding:10px 12px;">
     <kbd>Data Science</kbd>
     <br><br>
@@ -70,7 +71,8 @@
   </kbd>
 </p>
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/Jennmml/Jennmml/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center"><u>My GitHub Stats</u></h2>
 <p align="center">

@@ -79,18 +79,18 @@
 
 <!-- Lenguajes -->
 <img align="center" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&langs_count=10" />
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennmml&layout=compact&theme=github_dark&langs_count=10" />
 
 <br><br>
 
 <!-- Stats generales -->
 <img align="center" 
-     src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&count_private=true&show_icons=true&line_height=24&theme=github_dark" />
+     src="https://github-readme-stats.vercel.app/api?username=Jennmml&count_private=true&show_icons=true&line_height=24&theme=github_dark" />
 
 <br><br>
 
 <!-- Racha de commits -->
 <img align="center" 
-     src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=holi-theme" />
+     src="https://streak-stats.demolab.com?user=Jennmml&theme=holi-theme" />
 
 </p>

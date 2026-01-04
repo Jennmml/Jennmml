@@ -68,6 +68,3 @@
 
 
 ![snake gif](https://raw.githubusercontent.com/Jennmml/Jennmml/output/github-contribution-grid-snake.svg)
-
-<h2 align="center"><u>My GitHub Stats</u></h2>
-<p align="center">

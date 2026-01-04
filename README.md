@@ -17,10 +17,8 @@
     <kbd>Programming Languages</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="Python" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" title="C++" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" />
     <img width="30px" src="https://cdn.simpleicons.org/postgresql" title="SQL" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" title="Java" />
   </kbd>
 
   <kbd style="display:inline-block; margin:6px 8px; border-radius:8px; padding:10px 12px;">
@@ -30,21 +28,12 @@
   </kbd>
 
   <kbd style="display:inline-block; margin:6px 8px; border-radius:8px; padding:10px 12px;">
-    <kbd>Mobile</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" />
-  </kbd>
-
-  <kbd style="display:inline-block; margin:6px 8px; border-radius:8px; padding:10px 12px;">
     <kbd>Front-end</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" />
     <img width="30px" src="https://cdn.simpleicons.org/tailwindcss" title="Tailwind CSS" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
-    <img width="30px" src="https://cdn.simpleicons.org/astro" title="Astro" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" />
   </kbd>
 
   <kbd style="display:inline-block; margin:6px 8px; border-radius:8px; padding:10px 12px;">
@@ -69,8 +58,6 @@
     <kbd>Tools</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" title="CLion" />
   </kbd>
 
   <kbd style="display:inline-block; margin:6px 8px; border-radius:8px; padding:10px 12px;">

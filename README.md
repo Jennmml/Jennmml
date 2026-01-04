@@ -50,7 +50,6 @@
   <kbd style="display:inline-block; margin:6px 8px; border-radius:8px; padding:10px 12px;">
     <kbd>Data Science</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.simpleicons.org/databricks" title="Databricks" />
     <img width="30px" src="https://cdn.simpleicons.org/snowflake" title="Snowflake" />
   </kbd>
 
@@ -72,21 +71,3 @@
 
 <h2 align="center"><u>My GitHub Stats</u></h2>
 <p align="center">
-
-<!-- Lenguajes -->
-<img align="center" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennmml&layout=compact&theme=github_dark&langs_count=10" />
-
-<br><br>
-
-<!-- Stats generales -->
-<img align="center" 
-     src="https://github-readme-stats.vercel.app/api?username=Jennmml&count_private=true&show_icons=true&line_height=24&theme=github_dark" />
-
-<br><br>
-
-<!-- Racha de commits -->
-<img align="center" 
-     src="https://streak-stats.demolab.com?user=Jennmml&theme=holi-theme" />
-
-</p>

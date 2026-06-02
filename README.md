@@ -6,10 +6,10 @@
 **Hi!, I'm Jennifer**
 
 **About Me!**
-- 👋 Hey! I’m a Computer Engineering student who loves building and learning.
-- 🐍 Currently diving into **data analysis with Python**—hands-on with **pandas** and **PySpark**.
-- 🗺️ Big fan of **project management in tech** (planning, roadmapping, coordination, reporting),
-  **data science & analytics**, and modern **front-end**.
+- Hey! I’m a Computer Engineering student who loves building and learning.
+- 🔐 Interested in **cybersecurity**, **secure software development**, and protecting systems through secure design and best practices.
+- 🛡️ Focused on writing maintainable and reliable software by applying principles such as **SOLID**, **Clean Code**, secure coding standards, and modern software engineering practices.
+- 💻 Knowledge of **Python**, **JavaScript**, and **SQL**, with experience building applications, working with databases, and solving real-world problems through software.
 
 <!-- Fila 1 -->
 <p align="center" style="text-align:center; margin:0 auto; max-width:100%;">
